@@ -1,2 +1,2 @@
 # Tamil-Noun-Classifier
-This scripts will clasify given nouns 
+This scripts will clasify given nouns according to the concept proposed by Prof. S. Rajendran in Preliminaries to the Preparation of a Spell And Grammar Checker for Tamil, 2009. I used this script to classify nouns before feed it to the Morphological analyser lexicons. You can find more about the morphological analyser which I refer in this repo: https://github.com/sarves/thamizhi-morph
